@@ -2,7 +2,7 @@ class Student {
 	String index;
 	String firstName;
 	String lastName;
-
+	ArrayList<integer> list=new Arraylist<Integer>();
 	//TODO constructor
 
 	//TODO seters & getters
